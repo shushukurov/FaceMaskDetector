@@ -9,14 +9,16 @@
 
 
 ## Motivation
- Also, the absence of large datasets of ‘with_mask’ images has made this task more cumbersome and challenging.
 
-Face Mask Detection technology provides effective monitoring and enables proactive, real-time responses from your team. This advanced video-based detection technology is able to accurately detect objects in the camera’s field of view, classify them as humans and determine whether the subject is not wearing a mask.
+During these tough	times, we are still in search of efficient tools and solutions agains spread of COVID-19.
 
 According to WHO 'Masks are a key measure to suppress transmission and save lives'
 
-In these tough times due to Covid-19, we are still in the shortage of countremeasures. As a ----- solution we can utilize the power of Machine learning to ----
-As a person who has particular skills I wanted to bring value to society ---- i have responsibility 
+As a machine learning engineer and the member of society I feel that I have a responsibility to make things better in society
+
+I can utilise the power of deep learning for the effective monitoring of following mask wearing guidelines that enables proactive, real-time responses.
+
+For this purpose, I have developed ‘Face mask detection system’ which is extremely beneficial for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety.
 
 ## Project demo
 
