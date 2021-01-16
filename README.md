@@ -25,14 +25,23 @@ For this purpose, I have developed ‘Face mask detection system’ which is ext
 Soon
 
 ## TechStack/framework used
+
 Pytorch
+
 FaceNet
+
 MobileNetV2
+
 PIL
+
 OpenCV
-FastAi
+
+FastAI
+
 Flask
+
 Docker
+
 Microsoft Azure
 
 ## Features
