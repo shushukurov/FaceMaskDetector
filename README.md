@@ -24,6 +24,10 @@ For this purpose, I have developed ‘Face mask detection system’ which is ext
 
 [Deployed model on Azure web service](https://facemask.azurewebsites.net)
 
+Note: Please use appropriate picture 
+
+Model returns image with bounding box on detected face filled with red or green depending whether mask is detected or not
+
 ## TechStack/framework used
 
 [Pytorch](https://pytorch.org)
