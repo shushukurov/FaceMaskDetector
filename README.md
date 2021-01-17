@@ -26,25 +26,25 @@ Soon
 
 ## TechStack/framework used
 
-Pytorch
+[Pytorch](https://pytorch.org)
 
-FaceNet
+[FaceNet](https://github.com/timesler/facenet-pytorch)
 
-MobileNetV2
+[MobileNetV2](https://arxiv.org/abs/1801.04381)
 
-PIL
+[PIL](https://pillow.readthedocs.io/en/stable/#)
 
-OpenCV
+[OpenCV](http://opencv.org)
 
-FastAI
+[FastAI](http://fast.ai)
 
-Flask
+(Flask)[https://flask.palletsprojects.com/en/1.1.x/]
 
-Docker
+(Docker)[http://docker.com]
 
-Microsoft Azure
+(Microsoft Azure)[http://azure.microsoft.com]
 
-## Features
+## Description
 
 
 This new feature relies on AI-enabled video analytics in the Enterprise Suite which determines when an individual is not wearing a face mask within your establishment. Once the feature detects an individual is not wearing a mask, this prompts an automated alert.
