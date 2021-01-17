@@ -38,11 +38,11 @@ Soon
 
 [FastAI](http://fast.ai)
 
-(Flask)[https://flask.palletsprojects.com/en/1.1.x/]
+[Flask](https://flask.palletsprojects.com/en/1.1.x/)
 
-(Docker)[http://docker.com]
+[Docker](http://docker.com)
 
-(Microsoft Azure)[http://azure.microsoft.com]
+[Microsoft Azure](http://azure.microsoft.com)
 
 ## Description
 
