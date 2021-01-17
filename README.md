@@ -22,7 +22,7 @@ For this purpose, I have developed ‘Face mask detection system’ which is ext
 
 ## Project demo
 
-Soon
+[Deployed model on Azure web service](https://facemask.azurewebsites.net)
 
 ## TechStack/framework used
 
