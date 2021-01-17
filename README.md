@@ -22,7 +22,7 @@ For this purpose, I have developed ‘Face mask detection system’ which is ext
 
 ## Project demo
 
-[Deployed model on Azure web service](https://facemask.azurewebsites.net)
+### [Deployed model on Azure web service](https://facemask.azurewebsites.net)
 
 Note: Please use appropriate picture 
 
