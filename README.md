@@ -1,4 +1,4 @@
-# FaceMaskDetector
+# This project is under MIT license © [Shakhzod Shukurov](https://github.com/shushukurov/FaceMaskDetector/blob/main/LICENSE)
 
 ### Face Mask Detection system built with PIL, Pytorch using Deep Learning and Computer Vision algorithms to detect face masks in images and real-time video streams.
 
@@ -7,7 +7,7 @@
 
 ![fig2](https://github.com/shushukurov/FaceMaskDetector/blob/main/test_et7oykBp.gif)
 
-# This project is under MIT license © [Shakhzod Shukurov](https://github.com/shushukurov/FaceMaskDetector/blob/main/LICENSE)
+
 
 ## Motivation
 
