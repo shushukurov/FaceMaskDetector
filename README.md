@@ -67,5 +67,5 @@ RMFD dataset (See here)
 
 ## Results
 
-## License
-MIT © [Shakhzod Shukurov](https://github.com/shushukurov/FaceMaskDetector/blob/main/LICENSE)
+
+# This project is under MIT license © [Shakhzod Shukurov](https://github.com/shushukurov/FaceMaskDetector/blob/main/LICENSE)
