@@ -7,6 +7,8 @@
 
 ![fig2](https://github.com/shushukurov/FaceMaskDetector/blob/main/test_et7oykBp.gif)
 
+# This project is under MIT license © [Shakhzod Shukurov](https://github.com/shushukurov/FaceMaskDetector/blob/main/LICENSE)
+
 ## Motivation
 
 During these tough	times, we are still in search of efficient tools and solutions agains spread of COVID-19.
@@ -68,4 +70,4 @@ RMFD dataset (See here)
 ## Results
 
 
-# This project is under MIT license © [Shakhzod Shukurov](https://github.com/shushukurov/FaceMaskDetector/blob/main/LICENSE)
+
