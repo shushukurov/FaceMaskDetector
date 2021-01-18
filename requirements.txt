@@ -1,0 +1,10 @@
+-f https://download.pytorch.org/whl/torch_stable.html
+Werkzeug==0.16.0
+torchvision==0.8.2+cpu
+opencv_python
+facenet_pytorch==2.5.1
+Flask==1.1.1
+numpy
+torch==1.7.1+cpu
+mmcv
+Pillow==8.1.0
