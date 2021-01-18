@@ -7,7 +7,6 @@
 
 ![fig2](https://github.com/shushukurov/FaceMaskDetector/blob/main/test_et7oykBp.gif)
 
-
 ## Motivation
 
 During these tough	times, we are still in search of efficient tools and solutions agains spread of COVID-19.
@@ -50,6 +49,7 @@ Model returns image with bounding box on detected face filled with red or green 
 
 ## Description
 
+### FastAI (for BING search image data scraping) => Pytorch (for MobileNetV2 model training) => FaceNet (For face detecetion) => PIL and OpenCV (for image and video processing) => Flask (for serving model via REST API) => Docker (For containerization and CI/CD) => Microsoft Azure (For deployment) 
 
 This new feature relies on AI-enabled video analytics in the Enterprise Suite which determines when an individual is not wearing a face mask within your establishment. Once the feature detects an individual is not wearing a mask, this prompts an automated alert.
 
