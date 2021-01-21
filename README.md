@@ -68,7 +68,7 @@ Kaggle datasets
 RMFD dataset (See here)
 
 ## Results
-
+### TBA (After publication) and training screepts will be uploaded
 ## License
 This project is under MIT license © [Shakhzod Shukurov](https://github.com/shushukurov/FaceMaskDetector/blob/main/LICENSE)
 
