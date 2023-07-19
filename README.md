@@ -9,17 +9,15 @@
 
 
 
-## Motivation
+## Purpose
 
-During these tough	times, we are still in search of efficient tools and solutions agains spread of COVID-19.
+In the ongoing global challenge of mitigating COVID-19, efficient tools and strategies for minimizing the spread of the virus remain crucial.
 
-According to WHO 'Masks are a key measure to suppress transmission and save lives'
+The World Health Organization identifies masks as a significant preventive measure to reduce transmission and save lives.
 
-As a machine learning engineer and the member of society I feel that I have a responsibility to make things better in society
+As a machine learning engineer, I believe in the capacity of technology to make a positive impact in our societies. Leveraging deep learning, we can enhance the observance of mask-wearing guidelines through real-time, proactive monitoring.
 
-I can utilise the power of deep learning for the effective monitoring of following mask wearing guidelines that enables proactive, real-time responses.
-
-For this purpose, I have developed ‘Face mask detection system’ which is extremely beneficial for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety.
+With this in mind, I've developed the 'Face Mask Detection System.' This tool is especially useful in settings such as public transportation, crowded urban areas, residential districts, large-scale manufacturing facilities, and various enterprises aiming to ensure public safety and health.
 
 ## Project demo
 
